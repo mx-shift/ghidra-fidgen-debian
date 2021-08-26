@@ -1,0 +1,8 @@
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial-updates main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial-updates main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial-security main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ xenial-security main

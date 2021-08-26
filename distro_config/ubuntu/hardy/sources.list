@@ -1,0 +1,8 @@
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy-updates main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy-updates main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy-security main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ hardy-security main

@@ -1,0 +1,8 @@
+deb [trusted=yes] http://deb.debian.org/debian/ stretch main
+deb-src [trusted=yes] http://deb.debian.org/debian/ stretch main
+
+deb [trusted=yes] http://security.debian.org/debian-security stretch/updates main
+deb-src [trusted=yes] http://security.debian.org/debian-security stretch/updates main
+
+deb [trusted=yes] http://deb.debian.org/debian/ stretch-updates main
+deb-src [trusted=yes] http://deb.debian.org/debian/ stretch-updates main

@@ -1,0 +1,8 @@
+deb [trusted=yes] http://deb.debian.org/debian/ jessie main
+deb-src [trusted=yes] http://deb.debian.org/debian/ jessie main
+
+deb [trusted=yes] http://security.debian.org/debian-security jessie/updates main
+deb-src [trusted=yes] http://security.debian.org/debian-security jessie/updates main
+
+deb [trusted=yes] http://deb.debian.org/debian/ jessie-updates main
+deb-src [trusted=yes] http://deb.debian.org/debian/ jessie-updates main

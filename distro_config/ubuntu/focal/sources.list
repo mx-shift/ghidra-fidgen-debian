@@ -1,0 +1,8 @@
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal-updates main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal-updates main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal-security main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ focal-security main

@@ -1,0 +1,8 @@
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid-updates main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid-updates main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid-security main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ lucid-security main

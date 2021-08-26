@@ -1,0 +1,8 @@
+deb [trusted=yes] http://deb.debian.org/debian/ bullseye main
+deb-src [trusted=yes] http://deb.debian.org/debian/ bullseye main
+
+deb [trusted=yes] http://deb.debian.org/debian-security bullseye-security main
+deb-src [trusted=yes] http://deb.debian.org/debian-security bullseye-security main
+
+deb [trusted=yes] http://deb.debian.org/debian/ bullseye-updates main
+deb-src [trusted=yes] http://deb.debian.org/debian/ bullseye-updates main

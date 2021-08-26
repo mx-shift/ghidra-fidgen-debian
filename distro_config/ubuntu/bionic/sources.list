@@ -1,0 +1,8 @@
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic-updates main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic-updates main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic-security main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ bionic-security main

@@ -1,0 +1,8 @@
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty-updates main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty-updates main
+
+deb [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty-security main
+deb-src [trusted=yes] http://us.archive.ubuntu.com/ubuntu/ trusty-security main

@@ -1,0 +1,8 @@
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty-updates main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty-updates main
+
+deb [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty-security main
+deb-src [trusted=yes] http://old-releases.ubuntu.com/ubuntu/ jaunty-security main
